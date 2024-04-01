@@ -6,6 +6,7 @@ This Power BI project, crafted for the FP20 Analytics Challenge 14, delves into 
 </div>
 
 
+## 🪟 Overview:
 
 In this project, conducted with Power BI for the FP20 Analytics Challenge 14, I explored the dynamics of ⛽ Argentina's fuel prices from 2016 to 2023.
 
@@ -16,13 +17,6 @@ The dataset employed for this intricate analysis is part of the **FP20 Analytics
 The data modeling stage involved the creation of a relational data model that reflects the relationships between products, company, sales, shift.
 ![image](https://github.com/IrisMejuto/Argentina-Fuel-Market-Analysis/assets/121298708/3467cee2-be77-41b0-ab83-d259c49b7baf)
 
-
-## ⚒️ Visualizations and Functions Used
-* I created advanced DAX measures to calculate key performance indicators (KPIs) such as total sales, profitability, and comparisons against targets.
-* I implemented drill-down functionality to reveal details by product category, allowing for deeper understanding of each segment.
-* I applied hierarchies to territory fields to facilitate analysis by geographic location.
-* I used conditional formatting to enhance the visual interpretation of data and highlight areas of interest.
-* I designed KPI cards that reflect the company's real-time achievement of objectives.
 
  ## ❓Key questions the project answers
 * ✅ 1. What is the average price of Gasoil Grade 2 across all provinces?
