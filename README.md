@@ -17,14 +17,14 @@ The data modeling stage involved the creation of a relational data model that re
 ![image](https://github.com/IrisMejuto/Argentina-Fuel-Market-Analysis/assets/121298708/3467cee2-be77-41b0-ab83-d259c49b7baf)
 
 
-## ⚒️ Visualizations and Functions Used:
+## ⚒️ Visualizations and Functions Used
 * I created advanced DAX measures to calculate key performance indicators (KPIs) such as total sales, profitability, and comparisons against targets.
 * I implemented drill-down functionality to reveal details by product category, allowing for deeper understanding of each segment.
 * I applied hierarchies to territory fields to facilitate analysis by geographic location.
 * I used conditional formatting to enhance the visual interpretation of data and highlight areas of interest.
 * I designed KPI cards that reflect the company's real-time achievement of objectives.
 
- ## ❓Key questions the project answers:
+ ## ❓Key questions the project answers
 * ✅ 1. What is the average price of Gasoil Grade 2 across all provinces?
 * ✅ 2. Which company has the highest total sales by city?
 * ✅ 3. How has the price of Petrol Premium - 95 Octane changed from September 2022 to October 2023?
@@ -43,11 +43,6 @@ and product prices for a specific company?
 * ✅ 15. What was the product that showed the highest sales?
 * ✅ 16. Was there any month in the year 2023 where a trend of increasing prices for all products sold by a specific company was observed?
 * ✅ 17. Which company showed the greatest volatility in the prices of all its products during the year 2023?
-
-
-## ⭐ Key Results:
-The data has revealed that:
-
 
 
 
