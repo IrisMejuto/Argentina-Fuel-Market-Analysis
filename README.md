@@ -16,6 +16,16 @@ Utilizing Power BI's robust capabilities, I embarked on cleaning, modeling, expl
 
 The dataset employed for this intricate analysis is part of the **FP20 Analytics Challenge 14** 👉🏼🗃️ [⛽National Fuel Market Analytics DataSet](https://www.fp20analytics.com/challenges)
 
+## 🗃️ Dataset:
+
+The dataset is made up of 1 files:
+
+### Files:
+* [Datos Empleados.xlsx]()
+
+## 🖇️ Model:
+
+The data modeling stage involved creating a relational data model that reflects the relationships between .
 The data modeling stage involved the creation of a relational data model that reflects the relationships between products, company, sales, shift.
 ![image](https://github.com/IrisMejuto/Argentina-Fuel-Market-Analysis/assets/121298708/3467cee2-be77-41b0-ab83-d259c49b7baf)
 
