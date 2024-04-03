@@ -5,6 +5,8 @@ This Power BI project, crafted for the FP20 Analytics Challenge 14, delves into 
 <img src="https://github.com/IrisMejuto/Argentina-Fuel-Market-Analysis/blob/main/Slide2.JPG" alt="Logo" width="800" height="500">
 </div>
 
+## 📊 Dashboard
+You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDY2YThkZWQtOWQ5Ny00OTczLTk5NWEtZmVlZmI2MjVmNGMxIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
 
 ## 🪟 Overview:
 
@@ -40,5 +42,4 @@ and product prices for a specific company?
 
 
 
-## 📊 Dashboard
-You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDY2YThkZWQtOWQ5Ny00OTczLTk5NWEtZmVlZmI2MjVmNGMxIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
+
