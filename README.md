@@ -2,7 +2,7 @@
 This Power BI project, crafted for the FP20 Analytics Challenge 14, delves into Argentina's fuel prices from 2016 to 2023. #PowerBI
 
 <div align="center">
-<img src="https://github.com/IrisMejuto/Argentina-Fuel-Market-Analysis/blob/main/Slide2.JPG" alt="Logo" width="800" height="500">
+<img src="https://github.com/IrisMejuto/Argentina-Fuel-Market-Analysis/blob/main/Images/Slide2.JPG" alt="Logo" width="800" height="500">
 </div>
 
 ## 📊 Dashboard
