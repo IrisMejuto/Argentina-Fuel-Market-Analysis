@@ -6,7 +6,7 @@ This Power BI project, crafted for the FP20 Analytics Challenge 14, delves into 
 </div>
 
 ## 📊 Dashboard
-You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiZDY2YThkZWQtOWQ5Ny00OTczLTk5NWEtZmVlZmI2MjVmNGMxIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9])
+You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDY2YThkZWQtOWQ5Ny00OTczLTk5NWEtZmVlZmI2MjVmNGMxIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
 
 ## 🪟 Overview:
 
