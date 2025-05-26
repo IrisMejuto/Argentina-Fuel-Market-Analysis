@@ -14,8 +14,6 @@ In this project, conducted with Power BI for the FP20 Analytics Challenge 14, I 
 
 Utilizing Power BI's robust capabilities, I embarked on cleaning, modeling, exploring, and visualizing the comprehensive dataset to unearth critical insights.
 
-The dataset employed for this intricate analysis is part of the **FP20 Analytics Challenge 14** 👉🏼🗃️ [⛽National Fuel Market Analytics DataSet](https://www.fp20analytics.com/challenges)
-
 ## 🗃️ Dataset:
 
 The dataset is made up of 1 file, you can download it in Spanish and English:
